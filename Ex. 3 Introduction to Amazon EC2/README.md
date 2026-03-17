@@ -128,7 +128,6 @@ Task 6: Test Stop Protection
 
 <img width="1917" height="1052" alt="Screenshot 2026-02-27 142340" src="https://github.com/user-attachments/assets/80db4d6f-7927-4ebb-9f56-48e1a7e6c53d" />
 
-<img width="1912" height="1126" alt="Screenshot 2026-02-27 143001" src="https://github.com/user-attachments/assets/1c5b45aa-8ad6-4c51-affc-938a4329da9e" />
 
 ---
 
